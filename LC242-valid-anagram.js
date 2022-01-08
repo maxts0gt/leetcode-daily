@@ -34,7 +34,7 @@ function isAnagram(one, two) {
 	for (let j = 0; j < two.length; j++) {
 		// Grab the current chararacters
 		const currentCharTwo = two[j];
-		// Check if character is in the hash of 'One'
+		// Check if character is in the hash of 'One' which we created earlier
 		// if it returns falsy value return false
 		if (!hashForInputOne[currentCharTwo]) {
 			return false;
