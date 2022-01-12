@@ -5,6 +5,9 @@
 // Input: nums = [1,2,3,4]
 // Output: [24,12,8,6]
 
+// Time -> O(n) : No nested loops
+// Space -> O(1) : Output array is the same size as input array
+
 const productExceptSelf = (nums) => {
   // Let's say our initial input is [1,2,3,4]
   // We will then create equal number of 1s of array
