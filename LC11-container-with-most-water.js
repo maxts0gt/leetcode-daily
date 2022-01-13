@@ -1,6 +1,10 @@
 // Container with Most Water
-// Okay this is one difficult to explain
+
+// Okay this one is long to explain
 // Just head out to Leetcode 11
+
+// Time -> O(n)
+// Space -> O(1)
 
 function maxArea(columns) {
   //   Create maxArea for storing purposes
