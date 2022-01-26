@@ -1,5 +1,5 @@
 // Leetcode 300: Longest Increasing Subsequence
-// it has a long description. so, if u want feel free to visit Leetcode No: 300.
+// it has a long description. so, if u want to read desc, feel free to visit Leetcode No: 300.
 
 // Example 1:
 // Input: nums = [10,9,2,5,3,7,101,18]
